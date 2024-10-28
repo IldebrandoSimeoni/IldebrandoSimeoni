@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @IldebrandoSimeoni an italian graduated in Artificial Intelligence Master Degree.
-- 👀 I’m interested in Artificial Intelligence both in research and in its practical applications, Data Science, Programming, Databases.
-- 🌱 I’m currently learning Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Languages and Algorithms for AI.
-- 💞️ I am looking for universities and companies active in the above-mentioned fields with which to collaborate on internships or projects.
+- 👋 Hi, I’m @IldebrandoSimeoni an AI developer and enthusiast.
+- 🌱 I’m currently working at a leading consultancy firm, I specialize in building AI solutions that help businesses in their day to day life.
+- 👀 I’m interested in Artificial Intelligence both in research and in its practical applications, Data Science and Programming.
+- 💞️ I am looking for universities, companies and people in general active in the above-mentioned fields with which to collaborate on projects.
 - 📫 How to reach me ildebrando.simeoni@alice.it
 
 <!---
