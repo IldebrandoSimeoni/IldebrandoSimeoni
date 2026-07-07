@@ -3,7 +3,7 @@
 - 🌱 I’m currently working at a leading consultancy firm, I specialize in building AI solutions that help businesses in their day to day life.<br>
 - 👀 I’m interested in Artificial Intelligence both in research and in its practical applications, Data Science and Programming.<br>
 - 💞️ I am looking for universities, companies and people in general active in the above-mentioned fields with which to collaborate on projects.<br>
-- 📫 How to reach me ildebrando.simeoni@alice.it
+- 📫 How to reach me ildebrando.simeoni99@gmail.com
 
 
 ## 🌐 Socials:
